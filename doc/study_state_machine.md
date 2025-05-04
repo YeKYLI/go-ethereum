@@ -6,6 +6,8 @@ Vitalik Buterin | the founder of Ethereum | 2014
 
 Merkle Trees
 
+smart contract
+
 ##  RTFM
 
 [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
@@ -26,9 +28,9 @@ make geth
 
 ## do a transction
 
-## 
+## change the transcition 
 
-
+## make a new coin
 
 make geth
 ./build/bin/geth account new  123456
